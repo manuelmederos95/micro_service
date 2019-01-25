@@ -1,0 +1,10 @@
+zookeeper.host=localhost:2181
+zookeeper.groupId=thetechcheck
+
+kafka.topic.thetechcheck=thetechcheck
+
+kafka.bootstrap.servers=localhost:9092
+
+spring.application.name=book
+
+server.port=8090
